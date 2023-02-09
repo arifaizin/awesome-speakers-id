@@ -108,6 +108,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau sendiri \
 https://www.instagram.com/gilang_adhan/
 
+<img src="https://www.dicoding.id/wp-content/uploads/2020/07/6.-Instruktur-Kamu-Ahmad-Arif-Faizin.png" height="168px" width="168px" align="left" alt="" />
+
+**Ahmad Arif Faizin**\
+Topics: Android, Kotlin, UX\
+Jabatan: Academy Content Writer at <a href="https://www.dicoding.com/" rel="nofollow">Dicoding Indonesia</a> \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau sendiri \
+https://www.instagram.com/arif_faizin/
+
 <img src="https://twitter.com/Rayhan_nj/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Raihan Nismara**\
